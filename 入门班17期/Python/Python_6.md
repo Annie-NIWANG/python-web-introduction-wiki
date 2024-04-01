@@ -17,3 +17,8 @@
 <p align='center'><img src='../images/decorator1.png' width='50%' height='50%' /></p>
 <br>
 
+- @decorator的一些用法
+
+<br>
+<p align='center'><img src='../images/decorator2.png' width='50%' height='50%' /></p>
+<br>
