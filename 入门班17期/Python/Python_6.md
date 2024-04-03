@@ -53,3 +53,13 @@
 - 多态市值允许使用不同类型的对象以相同的方式进行操作
 - 通常是通过重写（overriding，用于继承中）
 - 重载（overloading，用于方法中参数数量或类型不同）
+
+
+### Class & Instance Variable
+- Class和Instance的引用分开独立，修改Instance的attribute不会影响Class的
+
+<br>
+<p align='center'><img src='../images/Variable.png' width='50%' height='50%' /></p>
+<br>
+
+
