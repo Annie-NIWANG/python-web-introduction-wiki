@@ -3,7 +3,7 @@
     - [Python的装饰器](#Python的装饰器)
     - [面向对象(OOP)](#面向对象OOP)
       - [类和对象](#类和对象)
-        - [Class和Instance Variable](#Class和InstanceVariable)
+        - [Class和Instance的Variable](#Class和Instance的Variable)
         - [封装（Encapsulation）](#封装Encapsulation)
         - [继承（Inheritance）](#继承Inheritance)
         - [多态（Polymorphism）](#多态Polymorphism)
@@ -57,7 +57,7 @@
   | 更复杂、更消耗资源 | 更简单，易于理解和维护
 
   
-##### Class 和 Instance Variable
+##### Class和Instance的Variable
 - Class和Instance的引用分开独立，通过修改Instance的attribute不会影响Class的内容
 
 <br>
