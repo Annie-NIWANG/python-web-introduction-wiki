@@ -52,11 +52,6 @@
 <p align='center'><img src='../images/Variable.png' width='50%' height='50%' /></p>
 <br>
 
-*不带下划线的调用称为public member，可在class内外调用*
-<br>
-*带一个下划线叫做protected member，只能在class内及自己的sub-class调用*
-<br>
-*带两个下划线叫做private member，只能在class内的sub-class调用*
 
 #### 封装（Encapsulation）
 - 封装是将对象的数据（属性）和行为（方法）捆绑在一起的过程
@@ -67,6 +62,13 @@
 <p align='center'><img src='../images/Encapsulation.png' width='50%' height='50%' /></p>
 <br>
 
+
+*不带下划线的调用称为public member，可在class内外调用*
+<br>
+*带一个下划线叫做protected member，只能在class内及自己的sub-class调用*
+<br>
+*带两个下划线叫做private member，只能在class内的sub-class调用*
+<br>
 #### 继承（Inheritance）
 - 继承是一种基于现有类创建新类的机制
 - 新创建的类成为“子类”（或派生类），现有类称为“父类”（或基类）
