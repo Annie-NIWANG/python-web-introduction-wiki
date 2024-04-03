@@ -38,7 +38,7 @@
 - 类（Class）：类是创建对象的蓝图或原型，它定义了对象的数据和行为
 - 对象（Object）：对象是类的实例，一个类可以实例化成多个对象，每个对象都有类中定义的属性和方法
 - stateful vs stateless：
-  | stateful | stateless
+  | 有状态(stateful) | 无状态(stateless)
   | :---: | :---:
   | 维护着一些信息 | 不保留任何之前操作的信息或结果
   | 同一操作的多次调用可能会因为对象的状态不同而产生不同的结果 | 着每次调用都是独立的
@@ -56,6 +56,10 @@
 - 封装是将对象的数据（属性）和行为（方法）捆绑在一起的过程
 - 封装还包括了信息隐藏的概念，即从外部代码隐藏内部数据和实现细节
 - 这通常是通过访问（如public、private、protected）来实现的
+- 实例：
+<br>
+<p align='center'><img src='../images/Encapsulation.png' width='50%' height='50%' /></p>
+<br>
 
 #### 继承（Inheritance）
 - 继承是一种基于现有类创建新类的机制
