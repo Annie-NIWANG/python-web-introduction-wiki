@@ -52,6 +52,10 @@
 <p align='center'><img src='../images/Variable.png' width='50%' height='50%' /></p>
 <br>
 
+*不带下划线的调用称为public member，可在class内外调用*
+*带一个下划线叫做protected member，只能在class内及自己的sub-class调用*
+*带两个下划线叫做private member，只能在class内的sub-class调用*
+
 #### 封装（Encapsulation）
 - 封装是将对象的数据（属性）和行为（方法）捆绑在一起的过程
 - 封装还包括了信息隐藏的概念，即从外部代码隐藏内部数据和实现细节
