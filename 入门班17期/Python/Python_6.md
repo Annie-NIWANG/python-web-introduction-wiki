@@ -3,7 +3,7 @@
     - [Python的装饰器](#Python的装饰器)
     - [面向对象(OOP)](#面向对象OOP)
       - [类和对象](#类和对象)
-        - [Class & Instance Variable](#ClassInstanceVariable)
+        - [Class & Instance Variable](#Class&InstanceVariable)
         - [封装（Encapsulation）](#封装Encapsulation)
         - [继承（Inheritance）](#继承Inheritance)
         - [多态（Polymorphism）](#多态Polymorphism)
