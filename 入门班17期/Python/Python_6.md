@@ -38,6 +38,19 @@
 - 类（Class）：类是创建对象的蓝图或原型，它定义了对象的数据和行为
 - 对象（Object）：对象是类的实例，一个类可以实例化成多个对象，每个对象都有类中定义的属性和方法
 - stateful vs stateless：
+  | stateful | stateless
+  | :---: | :---:
+  | 维护着一些信息 | 不保留任何之前操作的信息或结果
+  | 同一操作的多次调用可能会因为对象的状态不同而产生不同的结果 | 着每次调用都是独立的
+  | 更复杂、更消耗资源 | 更简单，易于理解和维护
+
+  
+##### Class & Instance Variable
+- Class和Instance的引用分开独立，通过修改Instance的attribute不会影响Class的内容
+
+<br>
+<p align='center'><img src='../images/Variable.png' width='50%' height='50%' /></p>
+<br>
 
 #### 封装（Encapsulation）
 - 封装是将对象的数据（属性）和行为（方法）捆绑在一起的过程
@@ -55,11 +68,6 @@
 - 重载（overloading，用于方法中参数数量或类型不同）
 
 
-### Class & Instance Variable
-- Class和Instance的引用分开独立，修改Instance的attribute不会影响Class的
 
-<br>
-<p align='center'><img src='../images/Variable.png' width='50%' height='50%' /></p>
-<br>
 
 
