@@ -53,7 +53,9 @@
 <br>
 
 *不带下划线的调用称为public member，可在class内外调用*
+<br>
 *带一个下划线叫做protected member，只能在class内及自己的sub-class调用*
+<br>
 *带两个下划线叫做private member，只能在class内的sub-class调用*
 
 #### 封装（Encapsulation）
